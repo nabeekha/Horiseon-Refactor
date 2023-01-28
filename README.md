@@ -49,6 +49,10 @@ This GitHub repository was created with the MIT license s
 
 🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
 
-## Tests
+## Tests and screenshots
 
-To test this application, please clone the git repository. You can test the image alt attribute by removing or altering the main image attribute. Refresh the Live server to view the alt image line
+To test this application, please clone the git repository. You can test the image alt attribute by removing or altering the main image attribute. Refresh the Live server to view the alt image line. 
+
+The following pages show screenshots of the deployed application
+![Getting Started](/Develop/assets/images/Horiseon-screenshot-1.png)
+![Getting Started](/Develop/assets/images/Horiseon-screenshot-2.png)
