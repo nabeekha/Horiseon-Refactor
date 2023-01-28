@@ -8,6 +8,8 @@ Provide a short description explaining the what, why, and how of your project. U
 
 - The motivation behind this challenge was to improve the quality of the Horiseon website by refactoring the code. I built this project in order to improve my own understanding of refactorization and deployment and also to see how code changes directly impact the front-end UI of a website. This challenge solves two problems: 1. improving the legibility of the code for other developers and improving the UI functionality for website viewers. By doing this, I learned about how individual naming elements and attributes impact various portions of a website's UI and how small tweaks can drastically impact the transferability of code.
 
+https://nabeekha.github.io/Horiseon-Refactor/
+
 ## Table of Contents (Optional)
 
 If your README is long, add a table of contents to make it easy for users to find what they need.
@@ -23,7 +25,6 @@ What are the steps required to install your project? Provide a step-by-step desc
 
 To install this project, go to github. Clone the bootcamp-challenge-1 repository. From here you will be able to access the index.html file and open it with live server to view the website
 
-<!--Is this descriptive enough-->
 
 ## Usage
 
