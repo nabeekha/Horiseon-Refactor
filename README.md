@@ -54,5 +54,5 @@ This GitHub repository was created with the MIT license s
 To test this application, please clone the git repository. You can test the image alt attribute by removing or altering the main image attribute. Refresh the Live server to view the alt image line. 
 
 The following pages show screenshots of the deployed application
-![Getting Started](/Develop/assets/images/Horiseon-screenshot-1.png)
-![Getting Started](/Develop/assets/images/Horiseon-screenshot-2.png)
+![Getting Started](/assets/images/Horiseon-screenshot-1.png)
+![Getting Started](/assets/images/Horison-screenshot-2.png)
